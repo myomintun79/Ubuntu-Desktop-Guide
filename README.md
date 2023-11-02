@@ -6,3 +6,6 @@ For Ubuntu Desktop Application
 2-Go to Download Folder and Eextract file: \
 3- $ ./start-tor-browser.desktop --register-app \
 https://linux.how2shout.com/how-to-install-tor-browser-on-ubuntu-22-04-lts-jammy/
+
+# Extract RAR Files in Ubuntu
+https://linuxhint.com/extract-rar-files-ubuntu/
