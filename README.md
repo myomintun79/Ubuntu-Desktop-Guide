@@ -12,4 +12,5 @@ https://linuxhint.com/extract-rar-files-ubuntu/
 
 # PDF Editor
 https://pdfchain.sourceforge.io/ \
-https://pdfsam.org/
+https://pdfsam.org/ \
+https://www.ilovepdf.com/
