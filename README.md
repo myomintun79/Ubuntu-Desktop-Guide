@@ -17,4 +17,6 @@ https://www.ilovepdf.com/
 
 # Install Wechat in Ubuntukylin Linux
 https://www.ubuntukylin.com/applications/114-en.html \
-https://blog.csdn.net/qq_34972053/article/details/130990707 
+https://blog.csdn.net/qq_34972053/article/details/130990707 \
+https://leimao.github.io/blog/Docker-WeChat/ \
+
