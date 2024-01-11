@@ -14,7 +14,8 @@ https://linuxhint.com/extract-rar-files-ubuntu/
 https://pdfchain.sourceforge.io/ \
 https://pdfsam.org/ \
 https://www.ilovepdf.com/ \
-https://www.freeoffice.com/en/
+https://www.freeoffice.com/en/ \
+https://www.wps.com/office/pdf/
 
 # Install Wechat in Ubuntukylin Linux
 https://www.ubuntukylin.com/applications/114-en.html \
