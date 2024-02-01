@@ -28,3 +28,7 @@ https://itslinuxfoss.com/change-folder-color-ubuntu-22-04/
 # Woeusb(for Windows Installation)
 https://www.youtube.com/watch?v=HZd4QodEFhA&ab_channel=MOYASH \
 https://launchpad.net/~tomtomtom/+archive/ubuntu/woeusb
+
+# balenaEtcher USB(for Linux Installation)
+https://etcher.balena.io/ \
+https://github.com/balena-io/etcher#debian-and-ubuntu-based-package-repository-gnulinux-x86x64
