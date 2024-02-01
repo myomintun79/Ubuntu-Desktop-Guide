@@ -26,5 +26,5 @@ https://leimao.github.io/blog/Docker-WeChat/ \
 https://itslinuxfoss.com/change-folder-color-ubuntu-22-04/
 
 # Woeusb(for Windows Installation)
-https://www.youtube.com/watch?v=HZd4QodEFhA&ab_channel=MOYASH
+https://www.youtube.com/watch?v=HZd4QodEFhA&ab_channel=MOYASH \
 https://launchpad.net/~tomtomtom/+archive/ubuntu/woeusb
