@@ -35,3 +35,6 @@ https://github.com/balena-io/etcher#debian-and-ubuntu-based-package-repository-g
 
 # Trash icon on Ubuntu
 https://linux.how2shout.com/how-to-restore-trash-can-icon-on-ubuntu-22-04-desktop/#:~:text=Show%20or%20Restore%20Trash%20can%20icon%20in%20Ubuntu%2022.04,-Open%20Command%20Terminal&text=Or%20else%20just%20type%20the,is%20Ctrl%2BAlt%2BT.
+
+# Varia Download Manager
+https://github.com/giantpinkrobots/varia 
