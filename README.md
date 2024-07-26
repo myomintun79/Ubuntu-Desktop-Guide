@@ -8,7 +8,8 @@ For Ubuntu Desktop Application
 https://linux.how2shout.com/how-to-install-tor-browser-on-ubuntu-22-04-lts-jammy/
 
 # Extract RAR Files in Ubuntu
-https://linuxhint.com/extract-rar-files-ubuntu/
+https://linuxhint.com/extract-rar-files-ubuntu/ \
+https://phoenixnap.com/kb/bz2-unzip
 
 # PDF Editor
 https://pdfchain.sourceforge.io/ \
