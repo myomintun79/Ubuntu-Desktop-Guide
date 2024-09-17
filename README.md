@@ -42,3 +42,8 @@ https://github.com/giantpinkrobots/varia \
 https://www.freedownloadmanager.org/ \
 https://jdownloader.org/home/index \
 https://sourceforge.net/projects/urlget/
+
+# draw.io
+https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
+https://snapcraft.io/install/drawio/ubuntu \
+https://www.diagrams.net/
