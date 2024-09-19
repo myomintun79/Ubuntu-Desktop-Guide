@@ -47,3 +47,6 @@ https://sourceforge.net/projects/urlget/
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
 https://snapcraft.io/install/drawio/ubuntu \
 https://www.diagrams.net/
+
+# VPN Client
+linux:~$ sudo apt-get install network-manager-openconnect network-manager-openconnect-gnome
