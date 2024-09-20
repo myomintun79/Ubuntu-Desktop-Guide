@@ -49,4 +49,6 @@ https://snapcraft.io/install/drawio/ubuntu \
 https://www.diagrams.net/
 
 # VPN Client
-linux:~$ sudo apt-get install network-manager-openconnect network-manager-openconnect-gnome
+linux:~$ sudo apt-get install network-manager-openconnect network-manager-openconnect-gnome \
+https://www.infradead.org/openconnect/ \
+https://github.com/yuezk/GlobalProtect-openconnect
