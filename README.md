@@ -52,3 +52,9 @@ https://www.diagrams.net/
 linux:~$ sudo apt-get install network-manager-openconnect network-manager-openconnect-gnome \
 https://www.infradead.org/openconnect/ \
 https://github.com/yuezk/GlobalProtect-openconnect
+
+# Canon-LBP-printers-drivers
+Install wget https://github.com/hieplpvip/canon_printer/raw/master/canon_lbp_setup.sh \
+chmod +x canon_lbp_setup.sh \
+./canon_lbp_setup.sh \
+https://github.com/hieplpvip/ubuntu_canon_printer
