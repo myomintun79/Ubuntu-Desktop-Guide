@@ -47,6 +47,11 @@ https://www.freedownloadmanager.org/ \
 https://jdownloader.org/home/index \
 https://sourceforge.net/projects/urlget/
 
+# Ubuntu Remote Desktop Access from Windows
+https://linuxconfig.org/ubuntu-20-04-remote-desktop-access-from-windows-10 \
+https://www.youtube.com/watch?v=aWyZoPUAXvs&ab_channel=InnoTechTips \
+https://phoenixnap.com/kb/ubuntu-remote-desktop-from-windows
+
 # draw.io
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
 https://snapcraft.io/install/drawio/ubuntu \
