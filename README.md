@@ -5,6 +5,9 @@ For Ubuntu Desktop Application
 https://itsfoss.com/things-to-do-after-installing-ubuntu-24-04/ \
 https://kskroyal.com/ubuntu-24-04-post-install-steps/
 
+# Remmina Remote Desktop
+https://remmina.org/
+
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
 2-Go to Download Folder and Eextract file: \
