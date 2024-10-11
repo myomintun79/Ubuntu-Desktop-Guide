@@ -9,7 +9,8 @@ https://kskroyal.com/ubuntu-24-04-post-install-steps/
 https://remmina.org/
 
 # Install font in Ubuntu
-https://itslinuxguide.com/ubuntu-install-fonts/
+https://itslinuxguide.com/ubuntu-install-fonts/ \
+https://github.com/kokoye2007/fonts-myanmar
 
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
