@@ -8,6 +8,9 @@ https://kskroyal.com/ubuntu-24-04-post-install-steps/
 # Remmina Remote Desktop
 https://remmina.org/
 
+# Install font in Ubuntu
+https://itslinuxguide.com/ubuntu-install-fonts/
+
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
 2-Go to Download Folder and Eextract file: \
