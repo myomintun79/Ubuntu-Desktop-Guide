@@ -12,6 +12,9 @@ https://remmina.org/
 https://itslinuxguide.com/ubuntu-install-fonts/ \
 https://github.com/kokoye2007/fonts-myanmar
 
+# KDE Connect
+https://www.linuxbabe.com/ubuntu/install-kde-connect-ubuntu-16-04
+
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
 2-Go to Download Folder and Eextract file: \
