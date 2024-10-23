@@ -16,6 +16,7 @@ https://github.com/kokoye2007/fonts-myanmar
 https://www.linuxbabe.com/ubuntu/install-kde-connect-ubuntu-16-04
 
 # KVM
+https://www.youtube.com/watch?v=qCUmf5gyOYY&ab_channel=LinuxTechi \
 https://absprog.com/post/qemu-kvm-ubuntu-24-04 \
 https://phoenixnap.com/kb/ubuntu-install-kvm
 
