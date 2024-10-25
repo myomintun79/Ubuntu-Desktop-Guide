@@ -18,7 +18,8 @@ https://www.linuxbabe.com/ubuntu/install-kde-connect-ubuntu-16-04
 # KVM
 https://www.youtube.com/watch?v=qCUmf5gyOYY&ab_channel=LinuxTechi \
 https://absprog.com/post/qemu-kvm-ubuntu-24-04 \
-https://phoenixnap.com/kb/ubuntu-install-kvm
+https://phoenixnap.com/kb/ubuntu-install-kvm \
+https://gulraezgulshan.medium.com/virtual-networking-in-linux-b1abcb983e72
 
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
