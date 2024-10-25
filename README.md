@@ -61,7 +61,8 @@ https://linux.how2shout.com/how-to-restore-trash-can-icon-on-ubuntu-22-04-deskto
 https://github.com/giantpinkrobots/varia \
 https://www.freedownloadmanager.org/ \
 https://jdownloader.org/home/index \
-https://sourceforge.net/projects/urlget/
+https://sourceforge.net/projects/urlget/ \
+https://itsfoss.com/best-torrent-ubuntu/
 
 # Ubuntu Remote Desktop Access from Windows
 https://linuxconfig.org/ubuntu-20-04-remote-desktop-access-from-windows-10 \
