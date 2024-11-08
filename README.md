@@ -64,6 +64,9 @@ https://jdownloader.org/home/index \
 https://sourceforge.net/projects/urlget/ \
 https://itsfoss.com/best-torrent-ubuntu/
 
+# Remote access App(SSH,RDP,VNC)
+https://remmina.org/
+
 # Ubuntu Remote Desktop Access from Windows
 https://linuxconfig.org/ubuntu-20-04-remote-desktop-access-from-windows-10 \
 https://www.youtube.com/watch?v=aWyZoPUAXvs&ab_channel=InnoTechTips \
