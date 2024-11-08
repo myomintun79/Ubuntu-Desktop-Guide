@@ -73,6 +73,10 @@ https://www.youtube.com/watch?v=aWyZoPUAXvs&ab_channel=InnoTechTips \
 https://phoenixnap.com/kb/ubuntu-remote-desktop-from-windows \
 https://www.youtube.com/watch?v=_ZSXG_nQdZs&ab_channel=babarehner
 
+# Angry IP Scanner
+http://angryip.org/ \
+https://github.com/angryip/ipscan
+
 # draw.io
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
 https://snapcraft.io/install/drawio/ubuntu \
