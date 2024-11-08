@@ -65,7 +65,8 @@ https://sourceforge.net/projects/urlget/ \
 https://itsfoss.com/best-torrent-ubuntu/
 
 # Remote access App(SSH,RDP,VNC)
-https://remmina.org/
+https://remmina.org/ \
+https://filezilla-project.org/
 
 # Ubuntu Remote Desktop Access from Windows
 https://linuxconfig.org/ubuntu-20-04-remote-desktop-access-from-windows-10 \
