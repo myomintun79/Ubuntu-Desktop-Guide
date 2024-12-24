@@ -1,10 +1,6 @@
 # Ubuntu-Desktop-Guide
 For Ubuntu Desktop Application
 
-# Ubuntu-minimal Server(for network tools)
-apt-get install iputils-ping \
-apt install net-tools
-
 # Recommend Doing After Installing Ubuntu
 https://itsfoss.com/things-to-do-after-installing-ubuntu-24-04/ \
 https://kskroyal.com/ubuntu-24-04-post-install-steps/
