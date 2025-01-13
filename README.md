@@ -78,6 +78,9 @@ https://www.youtube.com/watch?v=_ZSXG_nQdZs&ab_channel=babarehner
 http://angryip.org/ \
 https://github.com/angryip/ipscan
 
+# What IP
+https://whatip.gabmus.org/
+
 # draw.io
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
 https://snapcraft.io/install/drawio/ubuntu \
