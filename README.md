@@ -38,6 +38,20 @@ https://www.ilovepdf.com/ \
 https://www.freeoffice.com/en/ \
 https://www.wps.com/office/pdf/
 
+# XAMPP
+https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu \
+https://www.youtube.com/watch?v=OkSM9E07O0Y&ab_channel=DevWealth \
+nano ~/.local/share/applications/xampp.desktop \
+ [Desktop Entry] \
+Name=XAMPP Control Panel \
+Comment=Start and Stop XAMPP \
+Exec=sudo /opt/lampp/manager-linux-x64.run \
+Icon=/opt/lampp/htdocs/favicon.ico \
+Categories=Application \
+Terminal=true \
+Type=Application \
+chmod +x ~/.local/share/applications/xampp.desktop
+
 # Install Wechat in Ubuntukylin Linux
 https://www.ubuntukylin.com/applications/114-en.html \
 https://blog.csdn.net/qq_34972053/article/details/130990707 \
