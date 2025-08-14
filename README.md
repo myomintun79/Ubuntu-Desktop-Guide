@@ -38,6 +38,14 @@ https://www.ilovepdf.com/ \
 https://www.freeoffice.com/en/ \
 https://www.wps.com/office/pdf/
 
+# File Converter(mp4->mp3)
+soundconverter \
+sudo apt install soundconverter \
+WinFF (GUI for FFmpeg) \
+sudo apt install winff \
+HandBrake (more advanced) \
+sudo apt install handbrake
+
 # XAMPP
 https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu \
 https://www.youtube.com/watch?v=OkSM9E07O0Y&ab_channel=DevWealth \
