@@ -15,6 +15,11 @@ https://github.com/kokoye2007/fonts-myanmar
 # KDE Connect
 https://www.linuxbabe.com/ubuntu/install-kde-connect-ubuntu-16-04
 
+# Windows Apps in Linux
+https://www.winboat.app/ \
+https://github.com/winapps-org/winapps \
+https://usebottles.com/
+
 # KVM
 https://www.youtube.com/watch?v=qCUmf5gyOYY&ab_channel=LinuxTechi \
 https://absprog.com/post/qemu-kvm-ubuntu-24-04 \
