@@ -26,6 +26,13 @@ https://absprog.com/post/qemu-kvm-ubuntu-24-04 \
 https://phoenixnap.com/kb/ubuntu-install-kvm \
 https://gulraezgulshan.medium.com/virtual-networking-in-linux-b1abcb983e72
 
+# Winboat
+https://www.winboat.app/ \
+https://docs.docker.com/engine/install/ubuntu/ \
+https://pastebin.com/fVhVeLsh \
+https://www.youtube.com/watch?v=Jvpr-eJa8rY&t=809s \
+
+
 # Tor Browser on Ubuntu
 1-Download software from https://www.torproject.org/download/ \
 2-Go to Download Folder and Eextract file: \
