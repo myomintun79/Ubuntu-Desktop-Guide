@@ -118,10 +118,11 @@ https://github.com/angryip/ipscan
 # What IP
 https://whatip.gabmus.org/
 
-# draw.io
+# draw.io & Yed
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.3.0 \
 https://snapcraft.io/install/drawio/ubuntu \
-https://www.diagrams.net/
+https://www.diagrams.net/ \
+https://www.yworks.com/
 
 # VPN Client
 linux:~$ sudo apt-get install network-manager-openconnect network-manager-openconnect-gnome \
