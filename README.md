@@ -1,6 +1,9 @@
 # Ubuntu-Desktop-Guide
 For Ubuntu Desktop Application
 
+# Linux Apps List
+https://wiki.archlinux.org/title/List_of_applications
+
 # Recommend Doing After Installing Ubuntu
 https://itsfoss.com/things-to-do-after-installing-ubuntu-24-04/ \
 https://kskroyal.com/ubuntu-24-04-post-install-steps/
