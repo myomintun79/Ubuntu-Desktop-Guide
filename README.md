@@ -96,11 +96,11 @@ https://linux.how2shout.com/how-to-restore-trash-can-icon-on-ubuntu-22-04-deskto
 
 # Download Manager
 https://www.freedownloadmanager.org/ \
+https://stacher.io/ \
 https://github.com/NickvisionApps/Parabolic/releases/tag/2025.1.4 \
 https://snapcraft.io/install/youtube-dl-pro/ubuntu \
 tartube \
 https://github.com/giantpinkrobots/varia \
-https://www.freedownloadmanager.org/ \
 https://jdownloader.org/home/index \
 https://sourceforge.net/projects/urlget/ \
 https://itsfoss.com/best-torrent-ubuntu/
