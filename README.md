@@ -51,7 +51,9 @@ https://pdfchain.sourceforge.io/ \
 https://pdfsam.org/ \
 https://www.ilovepdf.com/ \
 https://www.freeoffice.com/en/ \
-https://www.wps.com/office/pdf/
+https://www.wps.com/office/pdf/ \
+PDF-to-Image \
+https://www.xnview.com/en/xnconvert/
 
 # File Converter(mp4->mp3)
 soundconverter \
